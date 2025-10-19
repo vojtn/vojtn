@@ -1,4 +1,14 @@
-## Hi there 👋
+Im student of Computer Science at Charles University, Faculty of Mathematics and Physics in Prague.
+
+Im interested in software engeeneering and architecture. Im mostly coding in C# and .NET environment.
+
+My projects:
+- [Agrois](https://gitlab.mff.cuni.cz/teaching/nprg045/peskova/rp-snop) - web app for farmers (C#, .NET, Blazor)
+- [DepartureBoards](https://github.com/vojtn/DepartureBoards) - web app to show your favourite stops boards in Prague Metropolian area. (C#, .NET, Blazor)
+- [PasswordManager](https://github.com/vojtn/PasswordManager) - Command line password manager with a mini game to practise memory of your passwords (C++)
+  
+
+Some (notes)[https://github.com/vojtn/mff_notes] from my studies.
 
 <!--
 **vojtn/vojtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
