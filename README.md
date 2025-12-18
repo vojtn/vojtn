@@ -8,7 +8,7 @@ My projects:
 - [PasswordManager](https://github.com/vojtn/PasswordManager) - Command line password manager with a mini game to practise memory of your passwords (C++)
   
 
-Some (notes)[https://github.com/vojtn/mff_notes] from my studies.
+Some [notes](https://github.com/vojtn/mff_notes) from my studies.
 
 <!--
 **vojtn/vojtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
