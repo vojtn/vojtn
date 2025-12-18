@@ -1,9 +1,9 @@
-Im student of Computer Science at Charles University, Faculty of Mathematics and Physics in Prague.
+I am a student of computer science at the Charles University, Faculty of Mathematics and Physics in Prague.
 
-Im interested in software engeeneering and architecture. Im mostly coding in C# and .NET environment.
+I am interested in software engeneering and software architecture. I mostly develop in C# and .NET environment.
 
 My projects:
-- [Agrois](https://gitlab.mff.cuni.cz/teaching/nprg045/peskova/rp-snop) - web app for farmers (C#, .NET, Blazor)
+<!-- - [Agrois](https://gitlab.mff.cuni.cz/teaching/nprg045/peskova/rp-snop) - web app for farmers (C#, .NET, Blazor) -->
 - [DepartureBoards](https://github.com/vojtn/DepartureBoards) - web app to show your favourite stops boards in Prague Metropolian area. (C#, .NET, Blazor)
 - [PasswordManager](https://github.com/vojtn/PasswordManager) - Command line password manager with a mini game to practise memory of your passwords (C++)
   
