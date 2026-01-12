@@ -3,7 +3,7 @@ I am a student of computer science at the Charles University, Faculty of Mathema
 I am interested in software engeneering and software architecture. I mostly develop in C# and .NET environment.
 
 My projects:
-<!-- - [Agrois](https://gitlab.mff.cuni.cz/teaching/nprg045/peskova/rp-snop) - web app for farmers (C#, .NET, Blazor) -->
+- [Agrois](https://gitlab.mff.cuni.cz/teaching/nprg045/peskova/rp-snop) - information system for farmers (C#, .NET, Blazor). Users can manage employees, machines, spareparts, commodities, lands. Uses AzureMaps to show lands on a map and support loading lands from LPIS.
 - [DepartureBoards](https://github.com/vojtn/DepartureBoards) - web app to show your favourite stops boards in Prague Metropolian area. (C#, .NET, Blazor)
 - [PasswordManager](https://github.com/vojtn/PasswordManager) - Command line password manager with a mini game to practise memory of your passwords (C++)
   
